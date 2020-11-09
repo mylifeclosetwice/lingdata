@@ -57,7 +57,7 @@
 54	самых	самый	DET	_	Case=Gen|Number=Plur	_	_	_	words@XXX#@XXX#39.363#39.581
 55	глобальных	глобальный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	words@XXX#@XXX#39.581#39.933
 56	//	//	PUNCT	_	_	_	_	_	words@XXX#@XXX#39.933#40.024
-57	угу	угу	INTJ	_		_	_	_	words@XXX#@XXX#41.609#41.846
+57	угу	угу	INTJ	_	_ _	_	_	words@XXX#@XXX#41.609#41.846
 58	/	/	PUNCT	_	_	_	_	_	words@XXX#@XXX#41.846#42.083
 59	кстати	кстати	ADV	_	Degree=Pos	_	_	_	words@XXX#@XXX#42.083#42.32
 60	следующий	следующий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@XXX#@XXX#42.32#42.557
