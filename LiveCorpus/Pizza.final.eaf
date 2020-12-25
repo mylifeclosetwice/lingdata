@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-11-30T19:21:40+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-25T20:42:18+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Pizza.mp4"/>
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.mp4" MEDIA_URL="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Pizza.wav"/>
@@ -18199,12 +18199,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5365" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
-                <ANNOTATION_VALUE>Накрывает повернутой навевх раскрытой ладонью левой руки обращенную наверх же раскрытую ладонь правой руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Накрывает повернутой наверх раскрытой ладонью левой руки обращенную наверх же раскрытую ладонь правой руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5366" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts233">
-                <ANNOTATION_VALUE>Рубящее движение ребром ладони левой руки поперерек раскрытой и обращенной наверх ладони правой руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Рубящее движение ребром ладони левой руки поперек раскрытой и обращенной наверх ладони правой руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18214,7 +18214,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5368" TIME_SLOT_REF1="ts610" TIME_SLOT_REF2="ts616">
-                <ANNOTATION_VALUE>Поднмает левую руку от плеча и выше отрывистыми взмахами</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Поднимает левую руку от плеча и выше отрывистыми взмахами</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18294,12 +18294,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5384" TIME_SLOT_REF1="ts1176" TIME_SLOT_REF2="ts1177">
-                <ANNOTATION_VALUE>Вертит правой рукой с мемного раздвинутыми большим и указательным пальцами перед собой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Вертит правой рукой с немного раздвинутыми большим и указательным пальцами перед собой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5385" TIME_SLOT_REF1="ts1196" TIME_SLOT_REF2="ts1197">
-                <ANNOTATION_VALUE>Подмимает правую руку от головы и выше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Поднимает правую руку от головы и выше</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18331,12 +18331,12 @@
     <TIER ANNOTATOR="mylifeclosetwice" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="@XXX" TIER_ID="gesture@XXX">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5442" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
-                <ANNOTATION_VALUE>Движение вниз-вверх в такст словам указательным пальцем правой руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Движение вниз-вверх в такт словам указательным пальцем правой руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5391" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
-                <ANNOTATION_VALUE>Выставление вперед  повернутой наверх лодони левой руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Выставление вперед  повернутой наверх ладони левой руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18376,12 +18376,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5398" TIME_SLOT_REF1="ts349" TIME_SLOT_REF2="ts353">
-                <ANNOTATION_VALUE>Гладящее горизантальное движение левой рукой с обращенной вниз ладонью</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Гладящее горизонтальное движение левой рукой с обращенной вниз ладонью</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5399" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-                <ANNOTATION_VALUE>взмах кистью левой руки с повернутой нарерх ладонью</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>взмах кистью левой руки с повернутой наверх ладонью</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18413,7 +18413,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5405" ANNOTATION_REF="a5367">
-                <ANNOTATION_VALUE>Выражает согласие со словаси собеседника</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Выражает согласие со словами собеседника</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18458,7 +18458,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5414" ANNOTATION_REF="a5376">
-                <ANNOTATION_VALUE>Выбажает неприязнь к предмету разговора</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Выражает неприязнь к предмету разговора</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18570,7 +18570,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5446" ANNOTATION_REF="a5443">
-                <ANNOTATION_VALUE>Выражает, что мысле понятна  </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Подтверждает, что мысль понятна  </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
