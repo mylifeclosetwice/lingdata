@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-25T20:42:18+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-26T01:17:07+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Pizza.mp4"/>
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.mp4" MEDIA_URL="file:///C:/Users/User/Desktop/My HSE/Проект по ПиЛДу/Pizza.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Pizza.wav"/>
@@ -1389,7 +1389,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1793" TIME_SLOT_REF1="ts548" TIME_SLOT_REF2="ts560">
-                <ANNOTATION_VALUE>к сожелению  не очень сильно / болели мы все вместе //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>к сожалению  не очень сильно / болели мы все вместе //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1761,7 +1761,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts718" TIME_SLOT_REF2="ts728">
-                <ANNOTATION_VALUE>ааа / предлогали ли вам петь под фанеру ? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ааа / предлагали ли вам петь под фанеру ? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1776,7 +1776,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts944" TIME_SLOT_REF2="ts963">
-                <ANNOTATION_VALUE>а как думаете / она может / рано или позно / когда-нибудь начаться у вас ? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а как думаете / она может / рано или поздно / когда-нибудь начаться у вас ? //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -2968,7 +2968,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2030" TIME_SLOT_REF1="ts720" TIME_SLOT_REF2="ts721">
-                <ANNOTATION_VALUE>предлогали</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>предлагали</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3138,7 +3138,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2064" TIME_SLOT_REF1="ts953" TIME_SLOT_REF2="ts954">
-                <ANNOTATION_VALUE>позно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поздно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4555,7 +4555,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2073" TIME_SLOT_REF1="ts549" TIME_SLOT_REF2="ts550">
-                <ANNOTATION_VALUE>сожелению</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сожалению</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12658,7 +12658,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4230" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE>восктицание</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>восклицание</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
